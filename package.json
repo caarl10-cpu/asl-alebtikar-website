@@ -1,0 +1,22 @@
+{
+  "name": "contractingwebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "dev": "nodemon backend/server.js"
+}
+,
+  "keywords": [],
+  "author": "asl alebtikar by carl austin b. villar",
+  "license": "ISC",
+  "description": "this project purposed to the capstone project by carl austin b villar",
+  "dependencies": {
+    "express": "^4.21.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
